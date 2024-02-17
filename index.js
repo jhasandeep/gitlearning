@@ -4,6 +4,18 @@ const b = 8;
 
 const add = () => {
 
-    return a-b ;
+    return a+b ;
 
+}
+
+
+const minus = () => {
+
+
+    return a-b;
+}
+
+const multiply = () => {
+
+    return a*b;
 }
